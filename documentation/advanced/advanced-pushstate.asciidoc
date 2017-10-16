@@ -1,5 +1,5 @@
 ---
-title: Mananipulating browser history
+title: Manipulating browser history
 order: 11
 layout: page
 ---
