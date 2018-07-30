@@ -7,7 +7,7 @@ layout: page
 [[portal.osgi]]
 = OSGi Portlets on Liferay 7
 
-Lifeary 7 supports modular portlet development using OSGi, and enables e.g.
+Liferay 7 supports modular portlet development using OSGi, and enables e.g.
 using multiple different Vaadin versions in different portlets on a page.
 
 For general OSGi considerations with Vaadin Framework such as packaging and
